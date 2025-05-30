@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on Frontend Mentor](https://theritikyadav11/Blog-Card/)
-- [Live Site](https://theritikyadav11/Blog-Card/)
+- [Solution on Frontend Mentor](https://theritikyadav11.github.io/Blog-Card/)
+- [Live Site](https://theritikyadav11.github.io/Blog-Card/)
 
 ## My Process
 
